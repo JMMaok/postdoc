@@ -5,7 +5,7 @@ The first dataset being developed is the Postdoc Legal Research Open Notebook. T
 
 Based on the lab notebook model common in the life sciences, this is an open notebook living systematic review of legal documents related to postdoctoral scholars and appointments. This project is created and maintained by Melania Abrahamian, Adriana Bankston and Jennifer Miller. 
 
-If you are interested in contributing to the project, please message one of the organizers or add a comment on the issue that interests you. You are welcome to join the project by contributing in any of the following areas:
+If you are interested in contributing to the project, please message one of the organizers, watch the project, or add a comment on the issue that interests you. You are welcome to join the project by contributing in any of the following areas:
 
 **Literature review**
 The project is informed by the following earlier work: 
