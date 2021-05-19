@@ -38,6 +38,6 @@ This project is not human subjects research. The data includes only public docum
 
 **Licensing**
 
-The dataset itself is placed to the full extent possible in the public domain with a CC0 designation. Other project topics will be published with a CC BY license to the extent it is practical to do so.
+The database and project documents are licensed CC BY 4.0. The case transcripts (opinions) contained within the database are in the public domain.
 
 
