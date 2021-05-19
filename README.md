@@ -1,7 +1,7 @@
 # postdoc
 This GitHub was created to house a collection of open datasets for the study of postdoctoral scholars and appointments.
 
-The first dataset being developed is the Postdoc Legal Research Open Notebook. The rest of this readme refers specifcially to that project.
+The first dataset being developed is the Postdoc Legal Research Open Notebook. The rest of this readme refers specifically to that project.
 
 Based on the lab notebook model common in the life sciences, this is an open notebook living systematic review of legal documents related to postdoctoral scholars and appointments. This project is created and maintained by Melania Abrahamian, Adriana Bankston and Jennifer Miller. 
 
